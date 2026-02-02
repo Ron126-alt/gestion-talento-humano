@@ -12,4 +12,4 @@ de empleados, asistencia y solicitudes de vacaciones.
 - HTML
 - CSS
 - JavaScript
--  Backend y base de datos (en definición)
+- Backend y base de datos (en definición)
